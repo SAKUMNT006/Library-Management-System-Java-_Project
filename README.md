@@ -1,4 +1,4 @@
-# Library-Management-System-Java-_Project
+# Library-Management-System-Java-Project
 This  library management System  software in which  admin can add/view/delete librarian and librarian can add/view books, issue, view issued books and return books.
 Users of the System
 Admin
